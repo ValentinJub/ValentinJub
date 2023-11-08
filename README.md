@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValentinJub
-- 👀 I’m interested in climbing, video games and coding;
-- 🌱 I’m currently learning to code in C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in climbing, video games, maths, and programming. 
+- 🌱 I’m currently learning to code in C++ but also web dev. 
+- 💞️ I’m looking to collaborate on any C++ SDL2 game or web dev.
 - 📫 How to reach me: valentinwissler42 at outlook.com
 
 <!---
